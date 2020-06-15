@@ -50,7 +50,7 @@
 		844AB7DF169597A62B9F51FD /* Pods-Tutorial_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tutorial_Tests.debug.xcconfig"; path = "Target Support Files/Pods-Tutorial_Tests/Pods-Tutorial_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		905E240DEABBAF9233D800BA /* Pods-Tutorial_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tutorial_Example.release.xcconfig"; path = "Target Support Files/Pods-Tutorial_Example/Pods-Tutorial_Example.release.xcconfig"; sourceTree = "<group>"; };
 		E623077C2D234817C12871B5 /* Pods-Tutorial_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tutorial_Tests.release.xcconfig"; path = "Target Support Files/Pods-Tutorial_Tests/Pods-Tutorial_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F787903D6C2C52FAA2EC1853 /* Tutorial.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Tutorial.podspec; path = ../Tutorial.podspec; sourceTree = "<group>"; };
+		F787903D6C2C52FAA2EC1853 /* Tutorial.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Tutorial.podspec; path = ../Tutorial.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
