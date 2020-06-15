@@ -8,7 +8,7 @@
 
 import UIKit
 import Home
-//import Tutorial
+import Tutorial
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -19,9 +19,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         let viewControllerFactory = ViewControllerFactoryImpl()
-        let navigationController = UINavigationController(rootViewController: viewControllerFactory.instantiate(HomeViewController.self)!)
-        window?.rootViewController = navigationController
-//        window?.rootViewController = viewControllerFactory.instantiate(TutorialViewController.self)
+//        let navigationController = UINavigationController(rootViewController: viewControllerFactory.instantiate(HomeViewController.self)!)
+//        window?.rootViewController = navigationController
+        window?.rootViewController = viewControllerFactory.instantiate(TutorialViewController.self)
         return true
     }
 

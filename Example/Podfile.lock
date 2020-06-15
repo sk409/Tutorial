@@ -9,7 +9,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - Home (0.1.0):
+  - Home (0.1.1):
     - CoreDI
     - Splash
   - Nimble (7.3.4)
@@ -21,8 +21,8 @@ PODS:
   - Quick (1.2.0)
   - Splash (0.1.1):
     - CoreDI
-  - Tutorial (0.1.1):
-    - Home
+  - Tutorial (0.1.2):
+    - CoreDI
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -54,12 +54,12 @@ SPEC CHECKSUMS:
   CoreLifecycle: 6badd5cdb478469147b95910347467dfc3cbad0e
   CoreMVVM: 17e082f71fe2a0d47426463291022e742924c4fd
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  Home: cf672b52e31365d61fb20b0e39c0dd8f741687fc
+  Home: 41d981213cd95d929558ba848fb5ae3e08a070e5
   Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
   Splash: 990d12cddb4403043c5240d8dcdfa40d6f4d0632
-  Tutorial: 68248fcb288a14c46cd72bebe5228604cc380d77
+  Tutorial: ed45b888ce05c90356fd69d93b9ad93513a27f69
 
 PODFILE CHECKSUM: 0dc2c89bd0d86f3ea8f2686f9fd814d0906914d9
 
