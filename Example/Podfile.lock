@@ -21,7 +21,7 @@ PODS:
   - Quick (1.2.0)
   - Splash (0.1.1):
     - CoreDI
-  - Tutorial (0.1.0):
+  - Tutorial (0.1.1):
     - Home
 
 DEPENDENCIES:
@@ -59,7 +59,7 @@ SPEC CHECKSUMS:
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
   Splash: 990d12cddb4403043c5240d8dcdfa40d6f4d0632
-  Tutorial: e2925e55ce77e40414be4fef04fbb300cb467ea0
+  Tutorial: 68248fcb288a14c46cd72bebe5228604cc380d77
 
 PODFILE CHECKSUM: 0dc2c89bd0d86f3ea8f2686f9fd814d0906914d9
 
